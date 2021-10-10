@@ -1,6 +1,7 @@
 {
   "name": "minus-one-world",
   "version": "0.1.0",
+  "homepage": "http://minusoneworld.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -12,7 +13,6 @@
     "@types/react-dom": "^17.0.0",
     "@types/react-typist": "^2.0.2",
     "nes-react": "^1.0.2",
-    "nes.css": "^2.3.0",
     "react": "16.13.0",
     "react-dom": "16.13.0",
     "react-globe.gl": "^2.18.11",
