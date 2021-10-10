@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Athens, GA",
+        "latitude": -83.375244140625,
+        "longitude": 33.959308210392024
+      }
+    }
+  ]
+}
