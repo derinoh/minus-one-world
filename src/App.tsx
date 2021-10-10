@@ -43,8 +43,8 @@ const World = () => {
       directionalLight && directionalLight.position.set(100, 100, 0.00001); // change light position to see the specularMap's effect
 
       globeEl.current.controls().autoRotate = true;
-      globeEl.current.controls().autoRotateSpeed = 0.2;
-      globeEl.current.controls().enableZoom = true;
+      globeEl.current.controls().autoRotateSpeed = 0.1;
+      globeEl.current.controls().enableZoom = false;
 
       
 
