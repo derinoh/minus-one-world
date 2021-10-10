@@ -65,7 +65,7 @@ const World = () => {
     <div>
       <Globe
         ref={globeEl}
-        globeImageUrl="//localhost:3000/lib/images/earth.png"
+        globeImageUrl="//minusoneworld.com/lib/images/earth.png"
         bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
         backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
         labelsData={label}
